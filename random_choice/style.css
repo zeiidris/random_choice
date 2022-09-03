@@ -13,12 +13,7 @@ body{
     height: 100vh;
     margin: 0;
 }
-header{
-    height: 50px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
+
 h3{
     color: #fff;
     margin: 10px 0 20px;
